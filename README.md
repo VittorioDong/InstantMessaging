@@ -6,9 +6,9 @@
 
 ## 文件说明
 
-bin:存放编译生成的.class文件
+bin：存放编译生成的.class文件
 
-src:存放源代码.java文件
+src：存放源代码.java文件
 
 RegisterInformation.txt：聊天室用户注册信息
 
