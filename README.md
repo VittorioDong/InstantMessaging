@@ -2,7 +2,7 @@
 
 ## 简介
 
-The socket in Java is used to realize the basic functions of the online chat room. There are client and server windows. The main functions are login, registration and chat. It can support multiple users to chat online at the same time. Each user can chat in groups and send messages to a user privately.
+利用java中的socket实现在线聊天室的基本功能，有客户端和服务器端窗口，主要功能有登录、注册、聊天，能支持多个用户同时在线聊天，每个用户可以群聊，也对某一个用户私发消息。
 
 ## 文件说明
 
